@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="N*6]*LffuX93x%hh5nKY" x="141" y="34"><statement name="HANDLER"><block type="basic_show_icon" id="O^pd[m2JAFcXj}V3o;-e"><field name="i">IconNames.Heart</field><next><block type="basic_show_icon" id="T2U}dM^1]=Aw:PyGw1Ba"><field name="i">IconNames.SmallHeart</field></block></next></block></statement></block></xml>
